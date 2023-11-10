@@ -1,2 +1,2 @@
 # SC4001-NNDL
-SC4001 Neural Networks and Deep Learning Assignments
+Solutions to SC4001 Neural Networks and Deep Learning Assignment 1 and Group Project Assignment 2
